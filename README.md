@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="./header.svg" alt="header" width="78%" /><img src="https://media.tenor.com/lMF2_EUutcQAAAAM/office-doro.gif" alt="doro" width="120" /></p>
+﻿<p align="center"><img src="./header.svg" alt="header" width="76%" style="vertical-align:middle;" /><img src="https://media.tenor.com/lMF2_EUutcQAAAAM/office-doro.gif" alt="doro" width="150" style="vertical-align:middle;" /></p>
 <!-- 움직이는 기술스택 아이콘 -->
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="70" height="70" />
@@ -51,6 +51,7 @@
 - GitHub: https://github.com/loTOCol
 - Velog: https://velog.io/@cabbz3000/posts
 - Email: cabbz987@naver.com
+
 
 
 
