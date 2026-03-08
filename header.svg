@@ -1,0 +1,12 @@
+﻿<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="loTOCol header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <text x="70" y="130" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">CYB</text>
+  <text x="72" y="185" fill="#EAF3FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Backend &amp; Server Developer</text>
+</svg>
+
